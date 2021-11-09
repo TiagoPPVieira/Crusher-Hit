@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DataLvl
+  - MovesText
+  - NextLevel
+  - DBObject
+  - Level_win0Balls
+  - Level_win1Balls
+  - Level_win2Balls
+  - TextNumBalls
+  - CanvasBonus
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Obstacle
+  - Portal
+  - ObjectA
+  - ObjectB
+  - BallCloneToAim
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text up tutorial
+    uniqueID: 2389889479
+    locked: 0

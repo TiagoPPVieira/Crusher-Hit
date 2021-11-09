@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f3892adfa774a974c98eb3174c9af92c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crusher Hit
+  fontNames:
+  - Crusher Hit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b623c9c95b88f444fa4b06178d9238bf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
